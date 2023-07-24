@@ -5,4 +5,4 @@ Play tic tac toe against an AI that uses the minimax algorithm. This project was
 
 
 ## Getting Started
-You can play for yourself by downloading this project here: https://github.com/TrackerJo/minimax-tic-tac-toe/releases/tag/ai
+You can play for yourself by downloading this project here: https://github.com/TrackerJo/minimax-tic-tac-toe/releases/tag/ai or play it online here: https://www.online-python.com/KfWJnq3ViP
